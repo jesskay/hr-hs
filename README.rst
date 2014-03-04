@@ -13,6 +13,7 @@ Clone the repository, or obtain ``hr.hs`` by whatever other means, then in
 the directory it's in, run
 
 ::
+
     $ ghc --make hr.hs  # you will, of course, require GHC for this
     $ cp hr ~/bin       # ~/bin should be in your $PATH
 
